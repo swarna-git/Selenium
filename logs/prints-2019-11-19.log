@@ -1,0 +1,14 @@
+16:58:02.705 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+16:58:13.131 [main] INFO  resources.BaseClass - getting URL QA academy
+16:58:22.328 [main] INFO  resources.BaseClass - clicking on Login link
+16:58:26.196 [main] INFO  resources.BaseClass - entering email
+16:58:26.287 [main] INFO  resources.BaseClass - entering password
+16:58:26.355 [main] INFO  resources.BaseClass - clicking on submit
+16:58:26.493 [main] INFO  resources.BaseClass - closing driver
+17:17:13.906 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+17:17:41.298 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+17:17:51.899 [main] INFO  resources.BaseClass - getting URL QA academy
+17:18:01.577 [main] INFO  resources.BaseClass - clicking on Login link
+17:18:05.257 [main] INFO  resources.BaseClass - entering email
+17:18:05.341 [main] INFO  resources.BaseClass - entering password
+17:18:05.410 [main] INFO  resources.BaseClass - clicking on submit

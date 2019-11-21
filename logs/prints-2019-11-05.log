@@ -1,0 +1,14 @@
+17:26:33.817 [main] INFO  resources.BaseClass - getting the title
+17:26:33.868 [main] INFO  resources.BaseClass - asserting the titles
+17:26:34.735 [main] INFO  resources.BaseClass - initializing driver for getHeader Testcase
+17:26:44.325 [main] INFO  resources.BaseClass - getting the url
+17:26:50.512 [main] INFO  resources.BaseClass - printing the navigation bar
+17:26:50.627 [main] INFO  resources.BaseClass - closing the driver
+18:08:22.552 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+18:08:33.402 [main] INFO  resources.BaseClass - getting URL QA academy
+18:08:43.378 [main] INFO  resources.BaseClass - clicking on Login link
+18:08:47.944 [main] INFO  resources.BaseClass - entering email
+18:08:48.031 [main] INFO  resources.BaseClass - entering password
+18:08:48.127 [main] INFO  resources.BaseClass - clicking on submit
+18:08:48.447 [main] INFO  resources.BaseClass - getting URL QA academy
+18:08:50.896 [main] INFO  resources.BaseClass - clicking on Login link

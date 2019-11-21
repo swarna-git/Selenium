@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="tests.listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="gettitle(failed)">
+    <classes>
+      <class name="tests.GetHeaderTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- tests.GetHeaderTest -->
+      <class name="tests.GetTitleTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+          <include name="getTitle"/>
+        </methods>
+      </class> <!-- tests.GetTitleTest -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+    </classes>
+  </test> <!-- gettitle(failed) -->
+</suite> <!-- Failed suite [Suite] -->

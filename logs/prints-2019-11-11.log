@@ -1,0 +1,13 @@
+15:01:06.003 [main] INFO  resources.BaseClass - getting the url
+15:01:12.904 [main] INFO  resources.BaseClass - getting the title
+15:01:12.950 [main] INFO  resources.BaseClass - asserting the titles
+15:01:13.786 [main] INFO  resources.BaseClass - initializing driver for getHeader Testcase
+15:01:25.615 [main] INFO  resources.BaseClass - getting the url
+15:01:32.621 [main] INFO  resources.BaseClass - printing the navigation bar
+15:01:32.731 [main] INFO  resources.BaseClass - closing the driver
+22:27:50.676 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+22:27:50.894 [main] INFO  resources.BaseClass - initializing the driver for getTitle testcase
+22:27:51.003 [main] INFO  resources.BaseClass - initializing driver for getHeader Testcase
+22:28:04.822 [main] INFO  resources.BaseClass - initializing driver for Login Testcase
+22:28:04.972 [main] INFO  resources.BaseClass - initializing the driver for getTitle testcase
+22:28:05.041 [main] INFO  resources.BaseClass - initializing driver for getHeader Testcase
