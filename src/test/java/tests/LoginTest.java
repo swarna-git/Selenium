@@ -53,6 +53,7 @@ public  void initialize() throws IOException
 	 login.Submit().click();
 	 System.out.println("login test1");
 	 System.out.println("made some changes to reflect in git");
+	 System.out.println("made some more changes by Git initial team");
 	 		
 	}
 @DataProvider
