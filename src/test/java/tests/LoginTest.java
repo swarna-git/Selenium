@@ -54,7 +54,8 @@ public  void initialize() throws IOException
 	 System.out.println("login test1");
 	 System.out.println("made some changes to reflect in git");
 	 System.out.println("made some more changes by Git initial team");
-	 System.out.println("makde changes in develop branch");
+	 System.out.println("makde changes in develop branch by GIT team");
+	 System.out.println("made changes in develop branch by selenium team ");
 	 		
 	}
 @DataProvider
