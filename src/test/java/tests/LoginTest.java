@@ -52,6 +52,7 @@ public  void initialize() throws IOException
 	 log.info("clicking on submit");
 	 login.Submit().click();
 	 System.out.println("login test1");
+	 System.out.println("made some changes to reflect in git");
 	 		
 	}
 @DataProvider
